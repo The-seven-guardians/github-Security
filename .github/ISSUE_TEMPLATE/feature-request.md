@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: 'Development '
+about: Feature request
 title: 'Features request '
 labels: enhancement
 assignees: Arkham20
